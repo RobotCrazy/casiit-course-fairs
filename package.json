@@ -1,0 +1,39 @@
+{
+  "name": "casiit-course-fairs",
+  "version": "1.0.0",
+  "description": "Software to book students to specific course fairs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobotCrazy/casiit-course-fairs.git"
+  },
+  "keywords": [
+    "Course",
+    "Fairs",
+    "Academic",
+    "Course",
+    "Selection",
+    "CASIIT",
+    "Course",
+    "Fair",
+    "Academic",
+    "Course",
+    "Fair"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobotCrazy/casiit-course-fairs/issues"
+  },
+  "homepage": "https://github.com/RobotCrazy/casiit-course-fairs#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "simple-oauth2": "^3.3.0"
+  }
+}
