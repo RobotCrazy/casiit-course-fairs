@@ -32,7 +32,7 @@
   "homepage": "https://github.com/RobotCrazy/casiit-course-fairs#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "simple-oauth2": "^3.3.0"
   }
